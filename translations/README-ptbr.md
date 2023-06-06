@@ -233,19 +233,19 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
 
 ## Processo de Entrevista e Preparação Geral para a Entrevista
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
-- [ ] Decifrando A Entrevista de Programação Série 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
-- [ ] Como Conseguir um Emprego em uma das 4 Gigantes:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (Como Conseguir um Emprego em uma das 4 Gigantes - Amazon, Facebook, Google e Microsoft - vídeo)
+- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
+- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
+- [X] Decifrando A Entrevista de Programação Série 1:
+    - [X] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
+    - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
+- [X] Como Conseguir um Emprego em uma das 4 Gigantes:
+    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (Como Conseguir um Emprego em uma das 4 Gigantes - Amazon, Facebook, Google e Microsoft - vídeo)
 
-- [ ] Cursos de Preparação:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed) (Entrevista de Engenheiro de Software Unleashed - curso pago):
+- [X] Cursos de Preparação:
+    - [X] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed) (Entrevista de Engenheiro de Software Unleashed - curso pago):
         - Aprenda com um ex-entrevistador da Google como se preparar para entrevistas de engenheiro de software.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
+    - [X] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
         - Um curso de preparação para entrevistas focado em Python, que cobre estrutura de dados, algoritmos, entrevistas simuladas e muito mais.
 
 ## Escolha Uma Linguagem para a Entrevista
